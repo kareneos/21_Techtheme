@@ -2,6 +2,7 @@
 	background-image: url("../img/background/hero.jpg");
 	height: 300%;
 }
+
 .div-1{
 	background: black;
 	border: none;
@@ -11,4 +12,11 @@
 button:hover{
 	background-color: black;
 	opacity: .4;
+}
+a:hover{
+	color:#0dc0c0;
+}
+.icon{
+	color:#0dc0c0;
+	width: 30px;
 }
