@@ -1,0 +1,14 @@
+.bkd-header{
+	background-image: url("../img/background/hero.jpg");
+	height: 300%;
+}
+.div-1{
+	background: black;
+	border: none;
+	padding: 3% 7%;
+	/*width: 50px 100px;*/
+}
+button:hover{
+	background-color: black;
+	opacity: .4;
+}
