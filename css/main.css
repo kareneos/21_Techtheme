@@ -13,10 +13,9 @@ button:hover{
 	background-color: black;
 	opacity: .4;
 }
-a:hover{
+a:hover, i{
 	color:#0dc0c0;
 }
-.icon{
-	color:#0dc0c0;
-	width: 30px;
+i:hover{
+	color:black;
 }
