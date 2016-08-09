@@ -1,0 +1,35 @@
+/*PACKAGE*/
+#edificios{
+	background-image: url("../img/background/city.jpg");
+	background-size: 100% 200%;
+	background-position: top;
+}
+.seguido{
+	display: inline;
+}
+.linea{
+	border-bottom: 1px solid rgb(244, 244, 244);
+}
+#medio{
+	background-size: contain;
+}
+/*CONTACT US*/
+#photocustomer{
+	border-radius: 50%;
+	width: 40%;
+}
+#contactus{
+	background-image: url("../img/background/contactus.jpg");
+	background-size: 100% 100%;
+}
+input, textarea{
+	width: 100%;
+}
+/*FOLLOW US*/
+#followus a{
+	color: black;
+}
+/*FOOTER*/
+footer{
+	background-color: #222222;
+}
