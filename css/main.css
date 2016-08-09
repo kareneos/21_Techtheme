@@ -19,3 +19,11 @@ a:hover, i{
 i:hover{
 	color:black;
 }
+.pd-icon{
+	position: absolute;
+	display: inline-block;
+	/*padding-right: 2%;*/
+}
+.pd-div{
+	padding: 0% 3% 5% 5%;
+}
