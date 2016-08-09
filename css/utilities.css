@@ -71,7 +71,6 @@ strong {
 .active {
 	color: #0dc0c0;
 }
-
 .a-none-decoration{
 	text-decoration: none;
 }
@@ -83,11 +82,9 @@ strong {
 	background-repeat: no-repeat;
 	background-position: center;
 }
-
 .pull-left {
 	float: left;
 }
-
 .pull-right {
 	float: right;
 }
